@@ -15,12 +15,12 @@
           "id": "45f4f02c-9c66-4eb2-bbd2-9f8426967e05",
           "type": "basic.output",
           "data": {
-            "name": "SERVOD12",
+            "name": "SERVO",
             "pins": [
               {
                 "index": "0",
-                "name": "D8",
-                "value": "20"
+                "name": "D7",
+                "value": "9"
               }
             ],
             "virtual": false

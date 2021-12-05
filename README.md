@@ -1,1 +1,88 @@
-# Mecatronica-proyecto
+<div id="top"></div>
+
+<!-- Inicio -->
+<br />
+<div align="center">
+  <a href="https://github.com/jmrtzma/Mecatronica-proyecto">
+    <img src="/wiki/README/robot.png" alt="Logo" width="150" height="150">
+  </a>
+
+  <h3 align="center">SPIDER BOT</h3>
+
+  <p align="center">
+    Un proyecto Maker<br>
+    Un proyecto de Tecnologías Libres
+  </p>
+</div>
+
+## SPIDER BOT
+¡Hola!
+
+Bienvenido al proyecto **Spider Bot**.
+
+**Spider Bot** es un robot educativo con forma de araña nacido de la idea de crear un **cuadrúpedo** a base de materiales low-cost.
+
+## Herramientas usadas
+<br />
+<div align="center">
+  <a href="https://github.com/jmrtzma/Mecatronica-proyecto">
+    <img src="/wiki/README/herramientas.png" alt="Herrarmientas" width="80" height="78">
+  </a>
+</div>
+<br />
+
+* [**_Freecad_**](https://www.freecadweb.org/) - Herramienta de diseño 3D. Software libre
+* [**_Inkscape_**](https://inkscape.org/es/) - Editor de gráficos vectoriales. Software libre
+* [**_Icestudio_**](https://github.com/FPGAwars/icestudio) - Editor visual para placas FPGA libres.
+
+<p align="right">(<a href="#top">inicio</a>)</p>
+
+## Wiki
+
+<br />
+<div align="center">
+  <a href="https://github.com/jmrtzma/Mecatronica-proyecto">
+    <img src="/wiki/README/book.png" alt="Wiki" width="161" height="85">
+  </a>
+</div>
+<br />
+
+Toda la **documentación** sobre Spider-Bot lo encontraréis en la [**Wiki**](https://github.com/jmrtzma/Mecatronica-proyecto/wiki), donde explicamos todos los temas relacionados con nuestro robot:
+- **Diario de un Maker** - donde publicamos todos eventos que nos han acontecido durante la creación del proyecto.
+- **Diseño 3D e Impresión** - donde mostramos resultados desde FreeCad a la realidad.
+- **Diseño Hardware** - donde explicamos qué materiales hemos usado y cómo hemos armado nuestro robot.
+- **Diseño Software** - donde explicamos cual es su comportamiento reactivo asignado por nosotros.
+
+<p align="right">(<a href="#top">inicio</a>)</p>
+
+## Diseñadores
+<div align="center">
+  <a href="https://github.com/jmrtzma/Mecatronica-proyecto">
+    <img src="/wiki/README/equipo.png" alt="equipo" width="80" height="80">
+  </a>
+</div>
+<br />
+
+* **Javier Martínez Madruga**  
+* **Carlos Caminero Abad**
+
+Estudiantes del Grado en Ingeniería de Robótica Software  
+Universidad Rey Juan Carlos - 2021/2022
+
+<p align="right">(<a href="#top">inicio</a>)</p>
+
+
+## Licencia
+
+Distribuido bajo la Licencia GPL-2.0. Véase [**LICENSE**](https://github.com/jmrtzma/Mecatronica-proyecto/blob/main/LICENSE) para más información
+
+<p align="right">(<a href="#top">inicio</a>)</p>
+
+
+## Agradecimientos
+
+* [@JhonDL](https://github.com/JhonDL) - Por ayudarnos en la impresión 3D.
+* [icestudio-blocks](https://github.com/FPGAwars/icestudio-blocks) - Por el reproductor de Música para Icestudio.
+* [Colección-Jedi](https://github.com/FPGAwars/Collection-Jedi) - Por las herramientas dedicadas al control de Micro-Servos y Timers para Icestudio.
+
+<p align="right">(<a href="#top">inicio</a>)</p>
