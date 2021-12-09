@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
+   sodipodi:docname="enumeración-servos.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.3809533"
+     inkscape:cx="353.17067"
+     inkscape:cy="584.7896"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.999934;stroke-linecap:round"
+       d="m 42.207205,112.29996 c -0.08905,18.9212 20.11884,46.24795 31.741573,59.37136 -9.307246,9.99462 -14.520387,23.15938 -14.59546,36.85798 -0.161013,30.00438 23.871582,54.45736 53.678192,54.61714 29.80641,0.15965 54.0996,-24.03405 54.26044,-54.03823 0.0563,-13.04191 -4.55006,-25.66865 -12.97759,-35.57389 12.56043,-13.06267 29.35435,-47.69241 29.47062,-67.34548 C 183.99035,67.926896 152.20241,36.828029 112.7755,35.529469 53.460134,43.721952 42.412254,74.038012 42.207205,112.29996 Z"
+       id="path1354"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.999934;stroke-linecap:round"
+       d="M 77.151496,262.65188 57.903497,242.51504 68.516829,232.37018 87.76483,252.50703 Z"
+       id="path1352"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.999934;stroke-linecap:round"
+       d="m 142.17282,252.62592 15.16193,-23.36865 12.31668,7.99125 -15.16193,23.36865 z"
+       id="path1350"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.999934;stroke-linecap:round"
+       d="M 35.195685,78.865645 47.226564,53.741242 60.468642,60.082234 48.437763,85.206647 Z"
+       id="path1348"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.999934;stroke-linecap:round"
+       d="M 171.66293,82.072289 160.75117,56.442004 174.2599,50.690836 185.17166,76.321121 Z"
+       id="path1346"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.999934;stroke-linecap:round"
+       d="M 84.294249,207.44366 84.902671,94.001901 145.25692,94.3256 144.6485,207.76736 Z"
+       id="path1344"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.999934;stroke-linecap:round"
+       d="m 125.10988,213.15796 a 11.16427,11.867729 83.809533 0 1 -6.3569,9.61441 11.16427,11.867729 83.809533 0 1 -11.94085,-0.37339 11.16427,11.867729 83.809533 0 1 -5.39421,-9.98186 l 11.83845,0.52367 z"
+       id="path1342"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.999934;stroke-linecap:round"
+       d="m 98.756073,87.375399 a 14.99981,15.944944 83.75467 0 1 8.528477,-12.92566 14.99981,15.944944 83.75467 0 1 16.04366,0.486303 14.99981,15.944944 83.75467 0 1 7.26025,13.404227 l -15.90628,-0.688342 z"
+       id="path2938-5"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.892038;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 39.397223,80.964588 25.01188,73.859602 18.015218,59.069759 2.9665634,62.29936 -7.9489462,56.908142 l 3.4334142,-6.951577 9.5871926,4.735156 9.1585834,-1.965536 -3.937423,-8.323096 -9.30133733,-4.593971 3.81995453,-7.7342 10.6903908,5.280031 6.447292,15.193033 13.041792,-4.866894 17.057731,8.424889 -3.520318,7.127528 -12.442357,-6.556513 -9.094109,2.537242 3.978183,8.04867 12.425532,6.137025 z"
+       id="path1591-3"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.892038;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 169.66044,54.649089 13.87426,-8.057539 16.19194,2.348133 5.63004,-14.324626 10.5277,-6.114011 3.89372,6.704598 -9.24657,5.369991 -3.42643,8.717944 9.11214,1.321433 8.97088,-5.209879 4.33209,7.459419 -10.31058,5.987916 -16.22412,-3.028819 -3.15613,13.557792 -16.4517,9.5544 -3.99228,-6.874295 12.3429,-6.741877 2.91442,-8.980348 -8.90602,-1.135722 -11.98407,6.959806 z"
+       id="path1591-3-5"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.947534;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 194.93947,289.16643 -13.646,-8.40662 -4.8857,-16.49099 -15.92274,2.87269 -10.3545,-6.3789 4.59314,-7.45578 9.09445,5.60265 9.69055,-1.74833 -2.74947,-9.28042 -8.8233,-5.4356 5.11025,-8.29517 10.14096,6.24734 4.26034,16.90803 14.11885,-4.75246 16.18104,9.96834 -4.7094,7.64449 -11.73933,-7.72108 -9.7128,2.37673 2.83364,8.98194 11.78691,7.26133 z"
+       id="path1591-6"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.962259;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 21.327767,271.76242 11.855649,-10.77898 17.440484,0.14637 1.420229,-16.34549 8.995996,-8.17904 6.077154,6.68418 -7.901263,7.18371 -0.86435,9.94784 9.814768,0.0824 7.665684,-6.96953 6.761328,7.43669 -8.810465,8.01035 -17.682486,-0.87872 0.899203,15.14893 -14.058094,12.78142 -6.230974,-6.85336 10.677863,-9.12759 0.255138,-10.1562 -9.544959,0.0882 -10.240473,9.31049 z"
+       id="path1591-7"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1855"
+       width="33.143799"
+       height="17.307804"
+       x="-58.873802"
+       y="5.5579891"
+       transform="rotate(-65.178122)"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1855-3"
+       width="33.143799"
+       height="17.307804"
+       x="-166.58702"
+       y="164.23425"
+       transform="rotate(-120.65057)"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1855-5"
+       width="33.143799"
+       height="17.307804"
+       x="-136.23434"
+       y="315.65332"
+       transform="rotate(-56.942292)"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1855-6"
+       width="33.143799"
+       height="17.307804"
+       x="-255.58058"
+       y="-169.72202"
+       transform="rotate(-129.91813)"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <circle
+       style="fill:#cccccc;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2012"
+       cx="212.73457"
+       cy="284.25916"
+       r="11.169003"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <circle
+       style="fill:#cccccc;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2012-2"
+       cx="63.193386"
+       cy="256.09598"
+       r="11.169003"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <circle
+       style="fill:#cccccc;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2012-9"
+       cx="81.274933"
+       cy="239.89528"
+       r="11.169003"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <circle
+       style="fill:#cccccc;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2012-1"
+       cx="158.91127"
+       cy="73.999229"
+       r="11.169003"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <circle
+       style="fill:#cccccc;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2012-27"
+       cx="182.24887"
+       cy="62.444412"
+       r="11.169003"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <circle
+       style="fill:#cccccc;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2012-18"
+       cx="231.64334"
+       cy="35.58186"
+       r="11.169003"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <circle
+       style="fill:#cccccc;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2012-7"
+       cx="-14.601007"
+       cy="37.739357"
+       r="11.169003"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <circle
+       style="fill:#cccccc;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2012-0"
+       cx="63.280449"
+       cy="75.86393"
+       r="11.169003"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <circle
+       style="fill:#cccccc;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2012-93"
+       cx="40.664536"
+       cy="67.403244"
+       r="11.169003"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <circle
+       style="fill:#cccccc;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2012-6"
+       cx="18.877197"
+       cy="295.38336"
+       r="11.169003"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <circle
+       style="fill:#cccccc;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2012-06"
+       cx="145.64206"
+       cy="237.91254"
+       r="11.169003"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <circle
+       style="fill:#cccccc;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2012-26"
+       cx="166.07031"
+       cy="251.31139"
+       r="11.169003"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="208.61958"
+       y="289.5022"
+       id="text5839"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14"><tspan
+         sodipodi:role="line"
+         id="tspan5837"
+         style="font-size:14.1111px;stroke-width:0.264583"
+         x="208.61958"
+         y="289.5022">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="161.4333"
+       y="256.314"
+       id="text5839-9"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14"><tspan
+         sodipodi:role="line"
+         id="tspan5837-2"
+         style="font-size:14.1111px;stroke-width:0.264583"
+         x="161.4333"
+         y="256.314">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="141.34174"
+       y="242.94885"
+       id="text5839-0"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14"><tspan
+         sodipodi:role="line"
+         style="font-size:14.1111px;stroke-width:0.264583"
+         x="141.34174"
+         y="242.94885"
+         id="tspan14499">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="177.00113"
+       y="66.934639"
+       id="text5839-7"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14"><tspan
+         sodipodi:role="line"
+         id="tspan5837-5"
+         style="font-size:14.1111px;stroke-width:0.264583"
+         x="177.00113"
+         y="66.934639">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="-19.067108"
+       y="43.024876"
+       id="text5839-92"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14"><tspan
+         sodipodi:role="line"
+         id="tspan5837-28"
+         style="font-size:14.1111px;stroke-width:0.264583"
+         x="-19.067108"
+         y="43.024876">9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="53.971664"
+       y="81.194168"
+       id="text5839-97-8"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14"><tspan
+         sodipodi:role="line"
+         id="tspan5837-3-4"
+         style="font-size:14.1111px;stroke-width:0.264583"
+         x="53.971664"
+         y="81.194168">11</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="31.114243"
+       y="72.567848"
+       id="text5839-97-5"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14"><tspan
+         sodipodi:role="line"
+         id="tspan5837-3-0"
+         style="font-size:14.1111px;stroke-width:0.264583"
+         x="31.114243"
+         y="72.567848">10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="154.72986"
+       y="78.257904"
+       id="text5839-97"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14"><tspan
+         sodipodi:role="line"
+         id="tspan5837-3"
+         style="font-size:14.1111px;stroke-width:0.264583"
+         x="154.72986"
+         y="78.257904">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="226.92798"
+       y="40.873791"
+       id="text5839-97-4"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14"><tspan
+         sodipodi:role="line"
+         style="font-size:14.1111px;stroke-width:0.264583"
+         x="226.92798"
+         y="40.873791"
+         id="tspan22384">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="76.467079"
+       y="244.95143"
+       id="text5839-6"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14"><tspan
+         sodipodi:role="line"
+         style="font-size:14.1111px;stroke-width:0.264583"
+         x="76.467079"
+         y="244.95143"
+         id="tspan21219">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="58.569733"
+       y="260.94424"
+       id="text5839-2"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14"><tspan
+         sodipodi:role="line"
+         id="tspan5837-9"
+         style="font-size:14.1111px;stroke-width:0.264583"
+         x="58.569733"
+         y="260.94424">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="14.492639"
+       y="299.52994"
+       id="text5839-3"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14"><tspan
+         sodipodi:role="line"
+         id="tspan5837-19"
+         style="font-size:14.1111px;stroke-width:0.264583"
+         x="14.492639"
+         y="299.52994">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#000000;fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-22.17704"
+       y="8.2500763"
+       id="text30120"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/Mecatronica-proyecto/wiki/diseno_software/enumeracion-servos.png"
+       inkscape:export-xdpi="145.14"
+       inkscape:export-ydpi="145.14"><tspan
+         sodipodi:role="line"
+         id="tspan30118"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#000000;fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="-22.17704"
+         y="8.2500763">Enumeración de los Micro-Servos</tspan></text>
+  </g>
+</svg>
