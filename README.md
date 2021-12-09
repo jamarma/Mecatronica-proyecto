@@ -1,19 +1,6 @@
 <div id="top"></div>
 
-<!-- Inicio -->
-<br />
-<div align="center">
-  <a href="https://github.com/jmrtzma/Mecatronica-proyecto">
-    <img src="/wiki/README/robot.png" alt="Logo" width="150" height="150">
-  </a>
-
-  <h3 align="center">SPIDER BOT</h3>
-
-  <p align="center">
-    Un proyecto Maker<br>
-    Un proyecto de Tecnologías Libres
-  </p>
-</div>
+![](https://github.com/jmrtzma/Mecatronica-proyecto/blob/main/wiki/README/portada.gif)
 
 ## SPIDER BOT
 ¡Hola!
