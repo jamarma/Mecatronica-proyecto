@@ -18,9 +18,10 @@ Bienvenido al proyecto **Spider Bot**.
 </div>
 <br />
 
-* [**_Freecad_**](https://www.freecadweb.org/) - Herramienta de diseño 3D. Software libre
-* [**_Inkscape_**](https://inkscape.org/es/) - Editor de gráficos vectoriales. Software libre
+* [**_Freecad_**](https://www.freecadweb.org/) - Herramienta de diseño 3D. Software libre.
+* [**_Inkscape_**](https://inkscape.org/es/) - Editor de gráficos vectoriales. Software libre.
 * [**_Icestudio_**](https://github.com/FPGAwars/icestudio) - Editor visual para placas FPGA libres.
+* [**_FPGA - Alhambra II_**](https://github.com/FPGAwars/Alhambra-II-FPGA) - Placa de circuitos integrados reconfigurables.
 
 <p align="right">(<a href="#top">inicio</a>)</p>
 
@@ -61,12 +62,26 @@ Universidad Rey Juan Carlos - 2021/2022
 
 ## Licencia
 
+<br />
+<div align="center">
+  <a href="https://github.com/jmrtzma/Mecatronica-proyecto">
+    <img src="/wiki/README/licencia.png" alt="Herrarmientas" width="80" height="80">
+  </a>
+</div>
+<br />
+
 Distribuido bajo la Licencia GPL-2.0. Véase [**LICENSE**](https://github.com/jmrtzma/Mecatronica-proyecto/blob/main/LICENSE) para más información
 
 <p align="right">(<a href="#top">inicio</a>)</p>
 
 
 ## Agradecimientos
+<div align="center">
+  <a href="https://github.com/jmrtzma/Mecatronica-proyecto">
+    <img src="/wiki/README/agradecimientos.png" alt="Herrarmientas" width="80" height="80">
+  </a>
+</div>
+<br />
 
 * [@JhonDL](https://github.com/JhonDL) - Por ayudarnos en la impresión 3D.
 * [icestudio-blocks](https://github.com/FPGAwars/icestudio-blocks) - Por el reproductor de Música para Icestudio.
