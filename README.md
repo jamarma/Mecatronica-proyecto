@@ -9,6 +9,12 @@ Bienvenido al proyecto **Spider Bot**.
 
 **Spider Bot** es un robot educativo con forma de araña nacido de la idea de crear un **cuadrúpedo** a base de materiales low-cost. Nos propusimos como reto "programar" todo su movimiento **sin la ayuda de un procesador**, en su lugar controlaremos el hardware de primera mano usando una [FPGA Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA).
 
+## Galería
+
+![](https://github.com/jmrtzma/Mecatronica-proyecto/blob/main/wiki/README/galeria.gif)
+
+Consulta la galería completa [aquí]().
+
 ## Herramientas usadas
 <br />
 <div align="center">
