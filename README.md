@@ -13,7 +13,7 @@ Bienvenido al proyecto **Spider Bot**.
 
 ![](https://github.com/jmrtzma/Mecatronica-proyecto/blob/main/wiki/README/galeria.gif)
 
-Consulta la galería completa [aquí]().
+Consulta la galería completa [aquí](https://github.com/jmrtzma/Mecatronica-proyecto/wiki/Galer%C3%ADa).
 
 ## Herramientas usadas
 <br />
