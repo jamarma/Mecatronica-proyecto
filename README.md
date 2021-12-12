@@ -15,8 +15,6 @@ Bienvenido al proyecto **Spider Bot**.
 
 **Consulta la galería completa [aquí](https://github.com/jmrtzma/Mecatronica-proyecto/wiki/Galer%C3%ADa).**
 
-<p align="right">(<a href="#top">inicio</a>)</p>
-
 ## Herramientas usadas
 <br />
 <div align="center">
