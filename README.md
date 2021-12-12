@@ -13,7 +13,9 @@ Bienvenido al proyecto **Spider Bot**.
 
 [![](https://github.com/jmrtzma/Mecatronica-proyecto/blob/main/wiki/README/galeria.gif)](https://github.com/jmrtzma/Mecatronica-proyecto/wiki/Galer%C3%ADa)
 
-Consulta la galería completa [aquí](https://github.com/jmrtzma/Mecatronica-proyecto/wiki/Galer%C3%ADa).
+**Consulta la galería completa [aquí](https://github.com/jmrtzma/Mecatronica-proyecto/wiki/Galer%C3%ADa).**
+
+<p align="right">(<a href="#top">inicio</a>)</p>
 
 ## Herramientas usadas
 <br />
@@ -42,8 +44,8 @@ Consulta la galería completa [aquí](https://github.com/jmrtzma/Mecatronica-pro
 <br />
 
 Toda la **documentación** sobre Spider-Bot lo encontraréis en la [**Wiki**](https://github.com/jmrtzma/Mecatronica-proyecto/wiki), donde explicamos todos los temas relacionados con nuestro robot:
-- **Diario de un Maker** - donde publicamos todos eventos que nos han acontecido durante la creación del proyecto.
-- **Diseño 3D e Impresión** - donde mostramos resultados desde FreeCad a la realidad.
+- **Diario de un Maker** - donde publicamos (a modo de historia) todos los eventos que nos han acontecido durante la creación del proyecto.
+- **Diseño 3D e Impresión** - donde encontrarás las piezas que componen a SpiderBot y hablamos sobre su impresión.
 - **Diseño Hardware** - donde explicamos qué materiales hemos usado y cómo hemos armado nuestro robot.
 - **Diseño Software** - donde explicamos cual es su comportamiento reactivo asignado por nosotros.
 
